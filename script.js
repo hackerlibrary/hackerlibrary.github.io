@@ -217,7 +217,7 @@ const books = [
       file:"Books/18.pdf",
       catagory:"flutter"
 
-},
+}
 ];
 
 function displayBooks(books) {
