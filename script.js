@@ -226,6 +226,15 @@ const books = [
      file:"Books/19.pdf",
      catagory:"ai"
 
+},
+{
+
+     title:"math",
+     author:"",
+     cover:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWL98wX2e5j71HGNYn9tzHW3bQXnHdoKWNWSlJyEXCzQ&s=10",
+     file:"Books/20.pdf",
+     catagory:"math"
+
 }
 ];
 
